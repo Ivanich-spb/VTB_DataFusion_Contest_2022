@@ -1,7 +1,17 @@
 # VTB_DataFusion_Contest_2022_PublicSolution
 
 Публичное решение для задач Matching & Puzzle [VTB DataFusion Contest 2022](https://ods.ai/tracks/data-fusion-2022-competitions)
-
+### Authors:
+ - Иван Александров https://github.com/Ivanich-spb
+ - Петр Михайлов https://github.com/PeMikj
+ 
+### Results:
+- 2-ое место в номинации Companion
+- 3-е место в номинации Insight
+- 4-ое место в задаче Education
+- 9-ое месот в задаче Puzzle
+- 12-ое место в задаче Matching
+ 
 ### Description:
 Необходимо решить Matching задачу, используя данные транзакций клиентов банка и кликстрима интернет-пользователей компании "Ростелеком".
 Решение сдается в формате контейнеров с кодом.
