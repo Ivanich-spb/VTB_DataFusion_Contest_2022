@@ -9,7 +9,7 @@
 - 2-ое место в номинации Companion
 - 3-е место в номинации Insight
 - 4-ое место в задаче Education
-- 9-ое месот в задаче Puzzle
+- 9-ое место в задаче Puzzle
 - 12-ое место в задаче Matching
  
 ### Description:
