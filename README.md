@@ -6,7 +6,7 @@
  - Петр Михайлов https://github.com/PeMikj
  
 ### Results:
-- 2-ое место в номинации Companion
+- 2-ое место в номинации Companion (лучшее публичное решение)
 - 3-е место в номинации Insight
 - 4-ое место в задаче Education
 - 9-ое место в задаче Puzzle
